@@ -92,3 +92,4 @@ This task was more than just writing code — it was about thinking like a decis
 
 
 <img width="1697" height="937" alt="Image" src="https://github.com/user-attachments/assets/2f720812-36b5-445d-9d27-7c786e5772d0" />
+
